@@ -1,4 +1,4 @@
-# Monorepo Template
+# Rantank
 
 pnpm workspace with:
 
